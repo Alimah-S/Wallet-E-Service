@@ -1,0 +1,24 @@
+{
+    "3098929467": {
+        "account_number": "3098929467",
+        "name": "Aisha",
+        "passcode": "246810",
+        "transaction_pin": "2468",
+        "balance": 2011000.0,
+        "history": [
+            "Deposited: N2000000.00",
+            "Received N11000.00 from Kemi 3023709877"
+        ]
+    },
+    "3023709877": {
+        "account_number": "3023709877",
+        "name": "Kemi",
+        "passcode": "369123",
+        "transaction_pin": "3693",
+        "balance": 9000.0,
+        "history": [
+            "Deposited: N20000.00",
+            "Transferred: N11000.00 to Aisha 3098929467"
+        ]
+    }
+}
